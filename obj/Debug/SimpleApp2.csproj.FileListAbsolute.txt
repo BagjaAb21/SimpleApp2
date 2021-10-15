@@ -1,0 +1,15 @@
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\bin\Debug\SimpleApp2.exe.config
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\bin\Debug\SimpleApp2.exe
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\bin\Debug\SimpleApp2.pdb
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.csproj.AssemblyReference.cache
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.Properties.Resources.resources
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.csproj.GenerateResource.cache
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.csproj.CoreCompileInputs.cache
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.exe
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.pdb
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.FormKasir.resources
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.FrmHome.resources
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.FormBiodata.resources
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.FormKalkulatorr.resources
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.FormKonvertSuhu.resources
+D:\AMIKOM\file file materi dan tugas\Semester 3\Materi Dan Tugas\Pemrograman Lanjut\Praktikum\Praktek\P 2\SimpleApp2\SimpleApp2\obj\Debug\SimpleApp2.FormBeliBuku.resources
